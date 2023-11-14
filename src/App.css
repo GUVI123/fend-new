@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  margin: 20px;
+  width: 500px;
+}
+.text{
+  width: 480px;
+  height:150px;
+  margin-left:10px;
+  margin-right:23px;
+}
+.en{
+  width: 600px;
+  height: 20px;
+
+}
+.sub{
+  width: 475px;
+  height: 30px;
+}
+.bulk{
+  background-color:   #5bdbb1;
+}
+.to{
+  width: 500px;
+margin-left: 80px;
+display: flex;
+
+}
+
+.Subject{
+  margin-left: 45px;
+display: flex;
+
+}
+.mail{
+margin-left:200px ;
+background-color: #695e82;
+height: 400px;
+width: 800px;
+}
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.email-input,
+.subject-input,
+.email-text {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.send-button {
+  background-color: #007bff;
+  color: #c5d15d;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.send-button:hover {
+  background-color: #0056b3;
+}
+.custom-button {
+  background-color: #2d7db2;
+  color: #fff;
+  padding: 10px 10px;
+  cursor: pointer;
+}
